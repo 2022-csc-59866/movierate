@@ -24,14 +24,14 @@
   <p align="center">
     MovieRate is a movie review platform to give the chance to people to rate movies/series and also make them aware if something is worth the time, effort, and money to watch.
     <br />
-    <a href="https://github.com/GeorgiosIoannouCoder/movierate-backend"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/2022-csc-59866/movierate"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://app.movierate.tv/">View Web Application</a>
     ·
-    <a href="https://github.com/GeorgiosIoannouCoder/movierate-backend/issues">Report Bug</a>
+    <a href="https://github.com/2022-csc-59866/movierate/issues">Report Bug</a>
     ·
-    <a href="https://github.com/GeorgiosIoannouCoder/movierate-backend/issues">Request Feature</a>
+    <a href="https://github.com/2022-csc-59866/movierate/issues">Request Feature</a>
   </p>
 </div>
 
@@ -189,7 +189,7 @@
 
 #### SetUp
 
-1. Navigate to the directory where you want to clone/run/save the application
+1. Navigate to the directory where you want to clone/run/save the application.
 
     ```sh
     cd your_selected_directory
@@ -213,7 +213,7 @@
    cd movierate-backend
    ```
 
-1. Git chekout to the first version/commit of this repository (backend) because now it is setup for deployment
+1. Git chekout to the first version/commit of this repository (backend) because now it is setup for deployment.
 
    ```sh
    git checkout ecc661073823ba01d74a483a6c7fda0405473853
@@ -225,7 +225,7 @@
    npm i
    ```
 
-1. Create a .env file inside the movierate-backend directory
+1. Create a .env file inside the movierate-backend directory.
 
     ```js
     MONGO_URI=mongodb://127.0.0.1:27017/movierate_db
@@ -247,7 +247,7 @@
    npm start
    ```
 
-1. Open MongoDB Compass and connect to the URI mongodb://127.0.0.1:27017/movierate_db. Here you will see your database movierate_db being created and storing the data of the web application
+1. Open MongoDB Compass and connect to the URI mongodb://127.0.0.1:27017/movierate_db. Here you will see your database movierate_db being created and storing the data of the web application.
 
 1. Open a second terminal
 
@@ -263,7 +263,7 @@
    cd movierate-frontend
    ```
 
-1. Git chekout to the first version/commit of this repository (fronted) because now it is setup for deployment
+1. Git chekout to the first version/commit of this repository (fronted) because now it is setup for deployment.
 
    ```sh
    git checkout 649e6c09590d49a63d25226f0df844e6cb2c7297
@@ -300,7 +300,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/GeorgiosIoannouCoder/movierate-backend/blob/master/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/2022-csc-59866/movierate/blob/master/LICENSE) for more information.
 
 MIT License
 
@@ -332,30 +332,30 @@ Georgios Ioannou - [@LinkedIn](https://linkedin.com/in/georgiosioannoucoder)
 
 Georgios Ioannou - [@georgiosioannoucoder](https://georgiosioannoucoder.github.io/) - Please contact me via the form in my portfolio.
 
-Project Link: [https://github.com/GeorgiosIoannouCoder/movierate-backend](https://github.com/GeorgiosIoannouCoder/movierate-backend)
+Project Link: [https://github.com/2022-csc-59866/movierate](https://github.com/2022-csc-59866/movierate)
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/GeorgiosIoannouCoder/movierate-backend.svg?style=for-the-badge
-[contributors-url]: https://github.com/GeorgiosIoannouCoder/movierate-backend/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/2022-csc-59866/movierate.svg?style=for-the-badge
+[contributors-url]: https://github.com/2022-csc-59866/movierate/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/GeorgiosIoannouCoder/movierate-backend.svg?style=for-the-badge
-[forks-url]: https://github.com/GeorgiosIoannouCoder/movierate-backend/network/members
+[forks-shield]: https://img.shields.io/github/forks/2022-csc-59866/movierate.svg?style=for-the-badge
+[forks-url]: https://github.com/2022-csc-59866/movierate/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/GeorgiosIoannouCoder/movierate-backend.svg?style=for-the-badge
-[stars-url]: https://github.com/GeorgiosIoannouCoder/movierate-backend/stargazers
+[stars-shield]: https://img.shields.io/github/stars/2022-csc-59866/movierate.svg?style=for-the-badge
+[stars-url]: https://github.com/2022-csc-59866/movierate/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/GeorgiosIoannouCoder/movierate-backend.svg?style=for-the-badge
-[issues-url]: https://github.com/GeorgiosIoannouCoder/movierate-backend/issues
+[issues-shield]: https://img.shields.io/github/issues/2022-csc-59866/movierate.svg?style=for-the-badge
+[issues-url]: https://github.com/2022-csc-59866/movierate/issues
 
-[license-shield]: https://img.shields.io/github/license/GeorgiosIoannouCoder/movierate-backend.svg?style=for-the-badge
-[license-url]: https://github.com/GeorgiosIoannouCoder/movierate-backend/blob/master/LICENSE
+[license-shield]: https://img.shields.io/github/license/2022-csc-59866/movierate.svg?style=for-the-badge
+[license-url]: https://github.com/2022-csc-59866/movierate/blob/master/LICENSE
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0077B5
 [linkedin-url]: https://linkedin.com/in/georgiosioannoucoder
 
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=000
-[github-url]: https://github.com/GeorgiosIoannouCoder/
+[github-url]: https://github.com/georgiosioannoucoder
 
 [product-screenshot]: logo.png
 
