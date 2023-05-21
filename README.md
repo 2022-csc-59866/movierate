@@ -288,6 +288,22 @@
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
+## Usage
+
+To try the MovieRate application click on this [link](https://app.movierate.tv/)!
+
+You can use the following two accounts to test the application in case that you do not want to register or use the third-party authentication:
+
+1. Admin
+    - Email: admin@email.com
+    - Password: 12345678aA!
+
+1. User
+    - Email: user@email.com
+    - Password: 12345678aA!
+
+<p align="right"><a href="#readme-top">Back to top</a></p>
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
