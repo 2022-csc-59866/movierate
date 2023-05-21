@@ -2,6 +2,8 @@
 
 ***NOTE: The backend  of the MovieRate can be found [here](https://github.com/2022-csc-59866/movierate/tree/main/backend)!***
 ***NOTE: The frontend of the MovieRate can be found [here](https://github.com/2022-csc-59866/movierate/tree/main/frontend)!***
+***NOTE: The original backend GitHub repository of the MovieRate can be found [here](https://github.com/GeorgiosIoannouCoder/movierate-backend)!***
+***NOTE: The original frontend GitHub repository of the MovieRate can be found [here](https://github.com/GeorgiosIoannouCoder/movierate-frontend)!***
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
