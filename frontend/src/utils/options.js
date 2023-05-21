@@ -1,0 +1,101 @@
+// Available Types for selection.
+export const typeOptions = [
+  { title: "Movie", value: "Movie" },
+  { title: "TV Show", value: "TV Show" },
+  { title: "TV Series", value: "TV Series" },
+  { title: "Documentary", value: "Documentary" },
+];
+
+// Available Status for selection.
+export const statusOptions = [
+  { title: "Private", value: "Private" },
+  { title: "Public", value: "Public" },
+];
+
+// Available Languages for selection.
+export const languageOptions = [
+  { title: "Afrikaans", value: "Afrikaans" },
+  { title: "Albanian", value: "Albanian" },
+  { title: "Amharic", value: "Amharic" },
+  { title: "Arabic", value: "Arabic" },
+  { title: "Armenian", value: "Armenian" },
+  { title: "Azerbaijani", value: "Azerbaijani" },
+  { title: "Basque", value: "Basque" },
+  { title: "Belarusian", value: "Belarusian" },
+  { title: "Bengali", value: "Bengali" },
+  { title: "Bosnian", value: "Bosnian" },
+  { title: "Bulgarian", value: "Bulgarian" },
+  { title: "Catalan", value: "Catalan" },
+  { title: "Chinese", value: "Chinese" },
+  { title: "Croatian", value: "Croatian" },
+  { title: "Czech", value: "Czech" },
+  { title: "Danish", value: "Danish" },
+  { title: "Dutch", value: "Dutch" },
+  { title: "English", value: "English" },
+  { title: "Estonian", value: "Estonian" },
+  { title: "Faroese", value: "Faroese" },
+  { title: "Finnish", value: "Finnish" },
+  { title: "French", value: "French" },
+  { title: "Galician", value: "Galician" },
+  { title: "Georgian", value: "Georgian" },
+  { title: "German", value: "German" },
+  { title: "Greek", value: "Greek" },
+  { title: "Hebrew", value: "Hebrew" },
+  { title: "Hindi", value: "Hindi" },
+  { title: "Hungarian", value: "Hungarian" },
+  { title: "Icelandic", value: "Icelandic" },
+  { title: "Indonesian", value: "Indonesian" },
+  { title: "Italian", value: "Italian" },
+  { title: "Japanese", value: "Japanese" },
+  { title: "Kazakh", value: "Kazakh" },
+  { title: "Korean", value: "Korean" },
+  { title: "Kyrgyz", value: "Kyrgyz" },
+  { title: "Latvian", value: "Latvian" },
+  { title: "Lithuanian", value: "Lithuanian" },
+  { title: "Macedonian", value: "Macedonian" },
+  { title: "Malay", value: "Malay" },
+  { title: "Malayalam", value: "Malayalam" },
+  { title: "Maltese", value: "Maltese" },
+  { title: "Mongolian", value: "Mongolian" },
+  { title: "Nepali", value: "Nepali" },
+  { title: "Norwegian", value: "Norwegian" },
+  { title: "Pashto", value: "Pashto" },
+  { title: "Persian", value: "Persian" },
+  { title: "Polish", value: "Polish" },
+  { title: "Portuguese", value: "Portuguese" },
+  { title: "Romanian", value: "Romanian" },
+  { title: "Russian", value: "Russian" },
+  { title: "Serbian", value: "Serbian" },
+  { title: "Slovak", value: "Slovak" },
+  { title: "Slovenian", value: "Slovenian" },
+  { title: "Somali", value: "Somali" },
+  { title: "Spanish", value: "Spanish" },
+  { title: "Swahili", value: "Swahili" },
+  { title: "Swedish", value: "Swedish" },
+  { title: "Tajik", value: "Tajik" },
+  { title: "Tamil", value: "Tamil" },
+  { title: "Thai", value: "Thai" },
+  { title: "Turkish", value: "Turkish" },
+  { title: "Ukrainian", value: "Ukrainian" },
+  { title: "Urdu", value: "Urdu" },
+  { title: "Uzbek", value: "Uzbek" },
+  { title: "Vietnamese", value: "Vietnamese" },
+  { title: "Welsh", value: "Welsh" },
+  { title: "Yiddish", value: "Yiddish" },
+];
+
+// Available Film Rating for selection.
+export const filmRatingOptions = [
+  { title: "G", value: "G" },
+  { title: "PG", value: "PG" },
+  { title: "PG-13", value: "PG-13" },
+  { title: "R", value: "R" },
+  { title: "NC-17", value: "NC-17" },
+  { title: "NR", value: "NR" },
+];
+
+// Available Film Rating for selection.
+export const roleOptions = [
+  { title: "Admin", value: "admin" },
+  { title: "User", value: "user" },
+];
