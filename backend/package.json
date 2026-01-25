@@ -9,7 +9,7 @@
   "author": "movierate-Georgios_Ioannou",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "cloudinary": "^2.7.0",
     "cookie-parser": "^1.4.7",
     "cookie-session": "^2.1.1",
